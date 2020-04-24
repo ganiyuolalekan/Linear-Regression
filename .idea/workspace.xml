@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfc51346-22ad-4c13-8811-986947ead79a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Linear Regression.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/olalekan.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Linear Regression Notebook-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear Regression Notebook.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lin_r.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linear_regression.py" afterDir="false" />
-    </list>
+    <list default="true" id="dfc51346-22ad-4c13-8811-986947ead79a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
